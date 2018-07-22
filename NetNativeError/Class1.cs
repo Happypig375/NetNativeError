@@ -2,7 +2,7 @@
 
 namespace NetNativeError
 {
-    public class Class1
+    public class SomeClass
     {
     }
 }
