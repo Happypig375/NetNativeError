@@ -15,7 +15,7 @@ using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 
-namespace NetNativeError.UWP
+namespace NetNativeError.Control
 {
     /// <summary>
     /// Provides application-specific behavior to supplement the default Application class.
